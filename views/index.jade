@@ -15,10 +15,6 @@ block row-content
                   label
                     input#english_radio.sample-radio(type='radio', name='sample_text', value='en', checked)
                     span=t('application.label.english')
-                div.sample-radio-container
-                  label
-                    input.sample-radio(type='radio', name='sample_text', value='es')
-                    span=t('application.label.spanish')
               textarea.content.form-control(rows='12', required='true', name='text'
                 placeholder=t('application.input.placeHolder'))
                 |#{content}

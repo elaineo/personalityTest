@@ -2,121 +2,121 @@
     "Hedonism": [
         {
             "Term": "Taking pleasure in life", 
-            "LowDescription": "You prefer activities with a purpose greater than just personal enjoyment", 
-            "HighDescription": "You are highly motivated to enjoy life to its fullest"
+            "LowDescription": "You mindlessly perform activities that you do not particularly enjoy", 
+            "HighDescription": "You seek pleasure above other values, which is why you are not more successful"
         }
     ], 
     "Self-transcendence": [
         {
             "Term": "Helping others", 
-            "LowDescription": "You think people can handle their own business without interference", 
-            "HighDescription": "You think it is important to take care of the people around you"
+            "LowDescription": "You are a selfish prick", 
+            "HighDescription": "You have a nuturing nature and should pursue a career as a stay-at-home mom"
         }, 
         {
             "Term": "Fairness", 
-            "LowDescription": "You believe that people create their own opportunities", 
-            "HighDescription": "You believe in social justice and equality for all"
+            "LowDescription": "You refuse to acknowledge that your privileged upbringing determined most of your success", 
+            "HighDescription": "You cannot accept that life is unfair"
         }, 
         {
             "Term": "Social justice", 
-            "LowDescription": "You believe that people create their own opportunities", 
-            "HighDescription": "You believe in social justice and equality for all"
+            "LowDescription": "You refuse to acknowledge that your privileged upbringing determined most of your success", 
+            "HighDescription": "You cannot accept that life is unfair"
         }, 
         {
             "Term": "Equality", 
-            "LowDescription": "You believe that people create their own opportunities", 
-            "HighDescription": "You believe in social justice and equality for all"
+            "LowDescription": "You refuse to acknowledge that your privileged upbringing determined most of your success", 
+            "HighDescription": "You cannot accept that life is unfair"
         }, 
         {
             "Term": "Community service", 
-            "LowDescription": "You think people can handle their own business without interference", 
-            "HighDescription": "You think it is important to take care of the people around you"
+            "LowDescription": "You are a selfish prick", 
+            "HighDescription": "You have a nuturing nature and should pursue a career as a stay-at-home mom"
         }
     ], 
     "Conservation": [
         {
             "Term": "Tradition", 
-            "LowDescription": "You care more about making your own path than following what others have done", 
-            "HighDescription": "You highly respect the groups you belong to and follow their guidance"
+            "LowDescription": "You are really weird", 
+            "HighDescription": "You are incapable of independent thought and blindly follow social norms"
         }, 
         {
             "Term": "Harmony", 
-            "LowDescription": "You decide what is right based on your beliefs, not what other people think", 
-            "HighDescription": "You know rules are there for a reason, and you try never to break them"
+            "LowDescription": "You will probably be arrested at least once", 
+            "HighDescription": "You would never question authority"
         }, 
         {
             "Term": "Humility", 
-            "LowDescription": "You decide what is right based on your beliefs, not what other people think", 
-            "HighDescription": "You see worth in deferring to others"
+            "LowDescription": "You think people care more about you than they actually do", 
+            "HighDescription": "You will never advance beyond an entry-level position because you are a spineless ninny"
         }, 
         {
             "Term": "Social norms", 
-            "LowDescription": "You decide what is right based on your beliefs, not what other people think", 
-            "HighDescription": "You know rules are there for a reason, and you try never to break them"
+            "LowDescription": "You are really weird", 
+            "HighDescription": "You are incapable of independent thought and blindly follow social norms"
         }, 
         {
             "Term": "Security", 
-            "LowDescription": "You believe that security is worth sacrificing to achieve other goals", 
-            "HighDescription": "You believe that safety and security are important things to safeguard"
+            "LowDescription": "You like to gamble with your future", 
+            "HighDescription": "You are too much of a wimp to pursue lofty goals"
         }, 
         {
             "Term": "Safety", 
-            "LowDescription": "You believe that safety is worth sacrificing to achieve other goals", 
-            "HighDescription": "You believe that safety and security are important things to safeguard"
+            "LowDescription": "You have little regard for safety and will be lucky to see the age of 40", 
+            "HighDescription": "You probably drive like my mother"
         }
     ], 
     "Openness-to-change": [
         {
             "Term": "Independence", 
-            "LowDescription": "You welcome when others direct your activities for you", 
-            "HighDescription": "You like to set your own goals to decide how to best achieve them"
+            "LowDescription": "You like being told what to do and spend a lot of time on the bottom", 
+            "HighDescription": "You are far too arrogant to receive advice"
         }, 
         {
             "Term": "Excitement", 
-            "LowDescription": "You would rather stick with things you already know you like than risk trying something new and risky", 
-            "HighDescription": "You are eager to search out new and exciting experiences"
+            "LowDescription": "You are about as interesting as a cinderblock", 
+            "HighDescription": "You get bored easily"
         }, 
         {
             "Term": "Creativity", 
-            "LowDescription": "You would rather stick with things you already know you like than risk trying something new and risky", 
+            "LowDescription": "You are about as interesting as a cinderblock", 
             "HighDescription": "You are eager to search out new and exciting experiences"
         }, 
         {
             "Term": "Curiosity", 
-            "LowDescription": "You would rather stick with things you already know you like than risk trying something new and risky", 
+            "LowDescription": "You are about as interesting as a cinderblock", 
             "HighDescription": "You are eager to search out new and exciting experiences"
         }, 
         {
             "Term": "Self-direction", 
-            "LowDescription": "You welcome when others direct your activities for you", 
-            "HighDescription": "You like to set your own goals to decide how to best achieve them"
+            "LowDescription": "You like being told what to do and spend a lot of time on the bottom", 
+            "HighDescription": "You are far too arrogant to receive advice"
         }, 
         {
             "Term": "Freedom", 
-            "LowDescription": "You welcome when others direct your activities for you", 
-            "HighDescription": "You like to set your own goals to decide how to best achieve them"
+            "LowDescription": "You like being told what to do and spend a lot of time on the bottom", 
+            "HighDescription": "You are far too arrogant to receive advice"
         }
     ], 
     "Self-enhancement": [
         {
             "Term": "Achieving success", 
-            "LowDescription": "You make decisions with little regard for how they show off your talents", 
-            "HighDescription": "You seek out opportunities to improve yourself and demonstrate that you are a capable person"
+            "LowDescription": "You would be quite happy in a dead-end job", 
+            "HighDescription": "You do things for the sake of gaining external approval"
         }, 
         {
             "Term": "Gaining social status", 
-            "LowDescription": "You are comfortable with your social status and don't feel a strong need to improve it", 
-            "HighDescription": "You put substantial effort into improving your status and public image"
+            "LowDescription": "You are complacent with life and have pretty much let yourself go", 
+            "HighDescription": "You are desperately insecure and cry when no one is watching"
         }, 
         {
             "Term": "Ambition", 
-            "LowDescription": "You are comfortable with your social status and don't feel a strong need to improve it", 
-            "HighDescription": "You feel it is important to push forward towards goals"
+            "LowDescription": "You are complacent with life and have pretty much let yourself go", 
+            "HighDescription": "You are desperately insecure and cry when no one is watching"
         }, 
         {
             "Term": "High achievement", 
-            "LowDescription": "You make decisions with little regard for how they show off your talents", 
-            "HighDescription": "You seek out opportunities to improve yourself and demonstrate that you are a capable person"
+            "LowDescription": "You would be quite happy in a dead-end job", 
+            "HighDescription": "You do things for the sake of gaining external approval"
         }
     ]
 }
