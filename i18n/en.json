@@ -25,13 +25,16 @@
             "services": "Services",
             "docs": "Docs",
             "appGallery": "App Gallery",
-            "words": "words"
+            "words": "words",
+            "tweet": "application.label.tweet"
         },
         "input": {
             "placeHolder": "Please enter English text to analyze (minimum of 100 words)...",
             "clear": "Clear",
             "analyze": "Analyze",
-            "title": "Input Text"
+            "title": "Input Text",
+            "subline": "application.input.subline",
+            "subHead": "application.input.subHead"
         }
     },
     "service": {
@@ -39,5 +42,9 @@
     },
     "Paste some text": {
         " Emails, blog posts, tweets, love letters, anything": {}
-    }
+    },
+    "Twitter name": "Twitter name",
+    "@eiaine": "@eiaine",
+    "Choose Input Type": "Choose Input Type",
+    "Plain Text": "Plain Text"
 }

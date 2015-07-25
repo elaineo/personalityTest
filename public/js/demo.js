@@ -23,8 +23,10 @@ $(document).ready(function() {
     personImageUrl = 'images/app.png', // Can be blank
     language = 'en'; // language selection
 
+
   // Jquery variables
   var $content = $('.content'),
+    $twitter = $('#twitter_input'),
     $loading   = $('.loading'),
     $error     = $('.error'),
     $errorMsg  = $('.errorMsg'),
@@ -40,6 +42,7 @@ $(document).ready(function() {
     updateWordsCount();
   });
 
+  $('#twitter_input').hide();
   /**
    * Update words count on change
    */
@@ -65,10 +68,45 @@ $(document).ready(function() {
     $traits.hide();
     $results.hide();
 
+    var isText = $('#english_radio').is(':checked');
+    if (isText) {
+      postText($content.val());
+
+    } else {
+      $.ajax({
+        type: 'POST',
+        url: '/twitter',
+        data: {
+        twitter: $twitter.val().replace('@',''),
+        },
+        dataType: 'json',
+        success: function(response) {
+          postText(response.join(". "))
+
+          if (response.error) {
+            showError(response.error);
+          } else {
+            console.log(response)
+          }
+        },
+        error: function(xhr) {
+          $loading.hide();
+
+          var error;
+          try {
+            error = JSON.parse(xhr.responseText || {});
+          } catch(e) {}
+          showError(error.error || error);
+        }
+      });
+      }
+    });
+
+  function postText(rawText) {
     $.ajax({
       type: 'POST',
       data: {
-        text: $content.val(),
+        text: rawText,
         language: language
       },
       url: '/',
@@ -96,8 +134,7 @@ $(document).ready(function() {
         showError(error.error || error);
       }
     });
-  });
-
+  }
   /**
    * Display an error or a default message
    * @param  {String} error The error
@@ -292,17 +329,25 @@ function showVizualization(theProfile) {
     $('.wordsCount').text(wordsCount);
   }
 
-  function onSampleTextChange() {
-    var isEnglish = $('#english_radio').is(':checked');
-    language = isEnglish ? 'en' : 'es';
+  function onInputTextChange() {
+    var isText = $('#english_radio').is(':checked');
+    if (isText) {
+      $('#twitter_input').hide();
+      $('#text_content').show();
 
-    $.get('/text/' + language + '.txt').done(function(text) {
-      $content.val(text);
-      updateWordsCount();
-    });
+      $.get('/text/en.txt').done(function(text) {
+        $content.val(text);
+        updateWordsCount();
+      });
+    } else {
+      // it's twitter!
+      $('#twitter_input').show();
+      $('#text_content').hide();
+
+    }
   }
 
-  onSampleTextChange();
+  onInputTextChange();
   $content.keyup(updateWordsCount);
-  $('.sample-radio').change(onSampleTextChange);
+  $('.sample-radio').change(onInputTextChange);
 });

@@ -6,19 +6,26 @@ block row-content
     div.row
       div.col-lg-6.col-md-12.col-xs-12
         h2=t('application.input.title')
-        p Paste some text. Emails, blog posts, tweets, love letters, anything.
+        p
+         | Paste some text. Emails, blog posts, love letters, anything. <br>
+         | If you enter your twitter username, we will use your most recent tweets.
         div.well
           div.form-group.row
             div.col-lg-12.col-xs-12(style='padding:0px;')
-              label.col-lg-6.col-md-6.col-xs-6.control-label=t('application.label.chooseLanguage') + ":"
+              label.col-lg-6.col-md-6.col-xs-6.control-label=t('Choose Input Type') + ":"
               div.col-lg-6.col-md-6.col-xs-6.sample-radio-list
                 div.sample-radio-container
                   label
                     input#english_radio.sample-radio(type='radio', name='sample_text', value='en', checked)
-                    span=t('application.label.english')
-              textarea.content.form-control(rows='12', required='true', name='text'
+                    span=t('Plain Text')
+                div.sample-radio-container
+                  label
+                    input#twitter_radio.sample-radio(type='radio', name='sample_text', value='tw')
+                    span=t('Twitter name')
+              textarea#text_content.content.form-control(rows='12', required='true', name='text'
                 placeholder=t('application.input.placeHolder'))
                 |#{content}
+              input#twitter_input(placeholder=t('@eiaine'))
               div.text-right.wordsCountFootnote
                 span.wordsCount.small
                 span.small=" " + t('application.label.words')
