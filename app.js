@@ -32,8 +32,8 @@ require('./config/express')(app);
 // if bluemix credentials exists, then override local
 var credentials = extend({
   version: 'v2',
-  username: '<username>',
-  password: '<password>'
+  username: 'e2488f27-daba-4228-8ff7-018a41c94797',
+  password: 'up3SlWhE3ZF5'
 }, bluemix.getServiceCreds('personality_insights')); // VCAP_SERVICES
 
 // Create the service wrapper
@@ -47,11 +47,11 @@ app.get('/', function(req, res) {
 // 1. Check if we have a captcha and reset the limit
 // 2. pass the request to the rate limit
 app.post('/', function(req, res, next) {
-  
+
   var profileParameters = extend(req.body, {
-      acceptLanguage : i18n.lng()      
+      acceptLanguage : i18n.lng()
   });
-  
+
   personalityInsights.profile(profileParameters, function(err, profile) {
     if (err)
       return next(err);

@@ -1,6 +1,6 @@
-I love that Robinhood allows me to flip stocks on the toilet. 
+I love that Robinhood allows me to flip stocks on the toilet.
 I used to do all my trading through Interactive Brokers, but its secure login system required that I be tethered to a desktop.
-With Robinhood, I place orders with a thumb swipe. With a sufficiently volatile stock, I can make or lose a few pennies every time I visit the bathroom, which is about 76 times a day because I have issues. 
+With Robinhood, I place orders with a thumb swipe. With a sufficiently volatile stock, I can make or lose a few pennies every time I visit the bathroom, which is about 76 times a day because I have issues.
 So cool.
 
 I used to think that maybe the financial markets shouldn’t be quite so democratized, maybe stock-picking should be reserved for sophisticated investors. Who am I kidding? Individual stock traders suck no matter what brokerage they use.
@@ -8,56 +8,25 @@ Retail investors are uninformed traders who underperform the market. Wall Street
 Brokerages love wealthy hobbyists. Whether it’s E-trade or Scottrade or your beloved Robinhood, they sell orders placed by people like you to wholesalers. Wholesalers try to fill your orders internally because they know it’s generally a good idea to bet against dumb people.
 Robinhood’s real goal isn’t to spread financial literacy or democratize market access. The goal is to democratize the illusion of access.
 Just like Uber lets anyone feel baller by hailing a black car, Robinhood lets anyone feel like Jordan Belfort flipping stock orders.
-We don’t care about the creation of wealth so much as we care about the feeling of wealth. 
-If you want to know what democratized access to the financial markets really feels like, open a client account at Goldman Sachs. The minimum deposit is $50 million. Want your wealth managed by a hedge fund like Bridgewater Associates? Minimum buy-in of $100 million. 
+We don’t care about the creation of wealth so much as we care about the feeling of wealth.
+If you want to know what democratized access to the financial markets really feels like, open a client account at Goldman Sachs. The minimum deposit is $50 million. Want your wealth managed by a hedge fund like Bridgewater Associates? Minimum buy-in of $100 million.
 With that kind of money you could buy your own Robinhood.
-See Also:
-1. Robinhood (part 1): Feeling Like a Rock Star is not a Trading Strategy
-2. We Are All Useless Morons that Suck –Dragonfly Capital
-3. How Your Order Gets Filled –bloomberg
- Bob Peck’s Top 10 Disruptive Themes for 2014:
-1. Transformation of Transportation. Same-day delivery, on-demand transportation, and Barnacle.
-2. Local Commerce Personalization. Targeted, location-based advertising.
-3. Payments. Mobile services and Bitcoin.
-4. Wearables. A new way for marketers to spy on you. 
-5. Cloud Adoption. More towards services, productivity tools, and utility.
-6. Non-Human Communication. Internet of things,  machines talking directly to machines.
-7. Advertising. Advertisers will seek new ways of engagement.
-8. Video. Video advertising is just beginning, we will see more creation and
-distribution of video through services like Amazon and Netflix.
-9. Sharing Economy. Watch for blossoming new industries and potential side businesses for incumbent industries.
-10. The Ephemeral Graph. Dynamic social graph due to Snapchat. 
-See Also:
-From Lycos to Ask Jeeves to Facebook: Tracking the 20 most popular web sites every year since 1996 –Washington Post This is my favorite racing quote. I’m not sure where it came from, but I’ll attribute it to Garry McCoy because I like him.
-When I was racing, I took this to mean that I should crash liberally. And I did. And I learned a lot about the limits of traction. 
-Over the weekend, Martin Casado of Nicira gave an interesting talk to prospective startup founders. He told of a point in time when he was sitting in a meeting, hadn’t slept in 3 days, his face was going numb and twitching, and he was convinced that he was going to die. 
+
+When I was racing, I took this to mean that I should crash liberally. And I did. And I learned a lot about the limits of traction.
+Over the weekend, Martin Casado of Nicira gave an interesting talk to prospective startup founders. He told of a point in time when he was sitting in a meeting, hadn’t slept in 3 days, his face was going numb and twitching, and he was convinced that he was going to die.
 He didn’t die, of course. Maybe he learned that staying awake for 3 days was not yet his limit.
 Most people never find out what they’re capable of because they never exceed what they see as their limits. Why would they? Limits are uncomfortable.
 There’s something about starting a company that forces us to exceed our limits. There’s always not enough manpower, not enough time, not enough money. When the only other option is to watch everything we worked for shrivel up and die, we push.
-Need to learn Objective-C in a week? Crank out an app in five days? Remain fully functional for the 40th hour? 100% of humans are wrong about their limits. Limits are so much farther than we think.  When I became a UPS employee, I had to pay a $35 fee to join the Teamsters Union. I wasn’t employed long enough to even recuperate my union fee, but that is a story for another day. 
+Need to learn Objective-C in a week? Crank out an app in five days? Remain fully functional for the 40th hour? 100% of humans are wrong about their limits. Limits are so much farther than we think.  When I became a UPS employee, I had to pay a $35 fee to join the Teamsters Union. I wasn’t employed long enough to even recuperate my union fee, but that is a story for another day.
 At UPS, the drivers, loaders, and dockworkers all work for the labor union. Only the managers and supervisors actually work for UPS, Inc. The unions formed because laborers need to organize to wrest their fair share from greedy corporations. Those aren’t my words; that’s in the Teamsters’ Mission Statement.
-Last week, I met a former UPS supervisor. 
+Last week, I met a former UPS supervisor.
 “Those Teamsters were the worst,” he said. “They knew which boxes had iPhones and shit from the packaging, and would hide them behind fake walls and steal them. I had to break up several theft rings.”
 I guess this was part of the Union’s mission to wrest their fair share from greedy corporations.
 This past weekend, with the help of Teamsters, Uber drivers banded together to form their own labor union.
 Uber was supposed to be a neutral platform, a portal to a liberated marketplace unimpeded by the taxicab tyranny. Uber even calls its drivers “partners”. Partners with no equity.
 Uber drivers work for themselves, but only in the sense that Uber does not provide a commercial insurance policy and drivers are legally culpable in the event of an accident.
-Uber does help with things like financing luxury vehicles. A large proportion of Uber drivers are former taxi drivers with scant savings. They can’t afford the towncars needed to drive for UberBLACK. 
+Uber does help with things like financing luxury vehicles. A large proportion of Uber drivers are former taxi drivers with scant savings. They can’t afford the towncars needed to drive for UberBLACK.
 
-At the SHARE conference, a Lyft representative described how Lyft was empowering underserved consumers by providing them with access to vehicle financing (but only for luxury SUVs). Clearly what underprivileged consumers need are Ford Explorers and Cadillac Escalades so they can get their kids to school like ballers.
-To qualify for Uber’s financing program, the driver must have an active signed “Payment Deduction Authorization Agreement” and must make 90% of their monthly payment from Uber earnings. As a result, supposedly self-employed drivers lock themselves into 5 years of indentured servitude to the tune of $50k. 
-Meet the new boss. Same as the old boss.
-In other news, Uber is now valued at $10 billion. There is a silent but bustling peer-to-peer economy that exists all over the world. Deep beneath the surface of the earth, resources are borrowed and shared through vast networks that have been individually optimized over thousands of years.
-A shared community lies under every forest, where intertwined tree roots are covered with a mycorrhizal fungus. The fungal mycelia provide a common medium where carbon, nitrogen, and phosphorous can be exchanged between plants [1].
-Seedlings, for instance, are pretty hosed as far as photosynthesis goes — They have to fight for sunlight in the shade of their elders. To help young saplings, carbon is transferred through the underground plant-fungus system to provide baby plants with the nutrients they need to grow in the absence of sunlight. 
-
-
-This macronutrient exchange extends beyond plant species. Deciduous trees such as the paper birch shed their leaves in the fall, and then receive carbon supplements from neighboring evergreen Douglas-firs in the winter. The following spring, the deciduous trees grow their leaves back and return nutrients to evergreens because their large leaves produce more sugars than narrow pine needles [2].
-One might say that the forest community is not really a conscious economy — the exchange of macronutrients is largely governed by diffusion. Scientifically, it is an ecosystem that evolved over millions of years. The system facilitates an inter-species exchange of resources to increase biodiversity and maximize robustness.
-And maybe that’s all the sharing economy really is –a natural process in which excess resources flow to redistribute where needed, because that’s what makes our communities stronger.
-References:
-1. S. Simard, K. Beiler, M. Bingham, J. Deslippe, L. Philip, F. Teste, Mycorrhizal networks: Mechanisms, ecology and modelling. Fungal Biology Reviews, Volume 26, Issue 1, April 2012, Pages 39-60, ISSN 1749-4613, <a target="_blank" href="http://dx.doi.org/10.1016/j.fbr.2012.01.001.">http://dx.doi.org/10.1016/j.fbr.2012.01.001.</a>
-2. C. Messier, K. Puettmann, K. D. Coates. Managing Forests as Complex Adaptive Systems. Routledge, 2013. This is a repost, but sometimes I need a reminder. 
 When were you at your very best? What was the period of time during which you were firing on all cylinders and were the most satisfied. What are you doing differently now? Moreover, what were the things you were doing and feeling then that aren’t happening now?
 And what changed?
 All the times I can think of in recent memory involve massive amounts of stress. I used to think that I work best in times of desperation, but then I remember all my desperate failures and realize that’s probably not the case.
@@ -66,12 +35,12 @@ Looking Back to Move Forward. Peter Thiel starts his book, Zero to One, as follo
 Whenever I interview someone for a job, I like to ask this question: “What important truth do very few people agree with you on?”
 It’s supposed to show a capacity for independent thought. Now that the book has been on the NY Times best-seller list for a few weeks, bloggers are circulating their answers like a “25 random things about me” Facebook meme. It’s a testament to their creativity.
 Anyway, because I am a lemming, here are my own Important Truths That Very Few People Agree With Me On. Thiel didn’t say that I have to be able to explain myself, so I’m not gonna.
- Hard cases make bad law. Insider trading cases have always been determined by case law: This guy got away with insider trading, therefore I should too! 
+ Hard cases make bad law. Insider trading cases have always been determined by case law: This guy got away with insider trading, therefore I should too!
 This is because there is no actual law against insider trading; the SEC chairman back in 1961 arbitrarily decided to prosecute it.
 After a Hard Case involving two hedge fund managers who traded on confidential info from former Dell and Nvidia employees, the US Court of Appeals all but legalized insider trading, again. The moral of the story: Retail investors, unless you have insider information, you don’t stand a chance at picking stocks.
 See Also:
 Insider Trading: Did Appeals Court Ruling Change the Rules? (video) Public hotel chains including Hilton, Marriott, and Wyndham are now implementing franchise growth strategies to ramp up a pipeline of new hotels and rooms in response to the strong recovery in the travel industry.
-This recovery has been underway since 2009. 
+This recovery has been underway since 2009.
 Industry disruptors like Airbnb and HomeAway spent the last five years eating the hotel industry’s lunch while hotel chains were still loading their muskets.
 Construction takes time, and hotels can’t move that quickly. Crowdsourcing provides a highly-liquid, dynamic supply. Travelers don’t have to wait half a decade for Airbnb hosts to build new rooms to meet their needs. In times of low demand, hosts take their rooms off the market while hotel chains go through bankruptcy and consolidation.
 People have made noise about Uber’s surge pricing and Lyft’s Prime Time price increases, but this is how the principle of supply and demand works. How much would someone have to pay you to schlep passengers on New Years’ Eve? Or in the aftermath of a hurricane?
