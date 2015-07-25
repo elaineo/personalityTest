@@ -1,0 +1,13 @@
+---
+declared-services:
+  personality-insights-service-standard:
+    label: personality_insights
+    plan: standard
+applications:
+- name: personality-insights-nodejs-elaineo-2224
+  command: node app.js
+  path: .
+  memory: 256M
+  services:
+    - personality-insights-service-standard
+  host: personality-insights-nodejs-elaineo-2224
