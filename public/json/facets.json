@@ -3,77 +3,77 @@
 		"Big5": "Extraversion",
 		"LowTerm": "Reserved",
 		"HighTerm": "Outgoing",
-		"LowDescription": "You are a private person and don't let many people in",
-		"HighDescription": "You make friends easily and feel comfortable around other people"
+		"LowDescription": "You do not play well with others",
+		"HighDescription": "You make friends easily and excel at idle chitchat"
 	},
 	"Gregariousness": {
 		"Big5": "Extraversion",
 		"LowTerm": "Independent",
 		"HighTerm": "Sociable",
-		"LowDescription": "You have a strong desire to have time to yourself",
-		"HighDescription": "You enjoy being in the company of others"
+		"LowDescription": "You are an antisocial loser and people wonder what it is you do alone all day",
+		"HighDescription": "You are afraid to be alone"
 	},
 	"Assertiveness": {
 		"Big5": "Extraversion",
 		"LowTerm": "Demure",
 		"HighTerm": "Assertive",
-		"LowDescription": "You prefer to listen than to talk, especially in group situations",
-		"HighDescription": "You tend to speak up and take charge of situations, and you are comfortable leading groups"
+		"LowDescription": "You prefer to listen than to talk, probably because you have nothing to say",
+		"HighDescription": "You tend to speak up and take charge of situations, even when you have no idea what you are doing"
 	},
 	"Activity-level": {
 		"Big5": "Extraversion",
 		"LowTerm": "Laid-back",
 		"HighTerm": "Energetic",
-		"LowDescription": "You appreciate a relaxed pace in life",
+		"LowDescription": "You are criminally lazy",
 		"HighDescription": "You enjoy a fast-paced, busy schedule with many activities"
 	},
 	"Excitement-seeking": {
 		"Big5": "Extraversion",
 		"LowTerm": "Calm-seeking",
 		"HighTerm": "Excitement-seeking",
-		"LowDescription": "You prefer activities that are quiet, calm, and safe",
-		"HighDescription": "You are excited by taking risks and feel bored without lots of action going on"
+		"LowDescription": "Most people would find your life boring",
+		"HighDescription": "You probably have an account on AshleyMadison"
 	},
 	"Cheerfulness": {
 		"Big5": "Extraversion",
 		"LowTerm": "Solemn",
 		"HighTerm": "Cheerful",
-		"LowDescription": "You are generally serious and do not joke much",
-		"HighDescription": "You are a joyful person and share that joy with the world"
+		"LowDescription": "You were probably a goth kid",
+		"HighDescription": "You are a joyful person and some think you might be mentally disabled"
 	},
 	"Trust": {
 		"Big5": "Agreeableness",
 		"LowTerm": "Cautious of others",
 		"HighTerm": "Trusting of others",
 		"LowDescription": "You are wary of other people's intentions and do not trust easily",
-		"HighDescription": "You believe the best in others and trust people easily"
+		"HighDescription": "You believe the best in others and trust people easily, which is why you are so easy to steal from"
 	},
 	"Cooperation": {
 		"Big5": "Agreeableness",
 		"LowTerm": "Contrary",
 		"HighTerm": "Accommodating",
-		"LowDescription": "You do not shy away from contradicting others",
-		"HighDescription": "You are easy to please and try to avoid confrontation"
+		"LowDescription": "You like to pick fights",
+		"HighDescription": "You are eager to please"
 	},
 	"Altruism": {
 		"Big5": "Agreeableness",
 		"LowTerm": "Self-focused",
 		"HighTerm": "Altruistic",
-		"LowDescription": "You are more concerned with taking care of yourself than taking time for others",
-		"HighDescription": "You feel fulfilled when helping others, and will go out of your way to do so"
+		"LowDescription": "You are generally a selfish a-hole",
+		"HighDescription": "You probably donate money to the Salvation Army people in front of grocery stores"
 	},
 	"Morality": {
 		"Big5": "Agreeableness",
 		"LowTerm": "Compromising",
 		"HighTerm": "Uncompromising",
-		"LowDescription": "You are comfortable using every trick in the book to get what you want",
+		"LowDescription": "You are a manipulative sociopath",
 		"HighDescription": "You think it is wrong to take advantage of others to get ahead"
 	},
 	"Modesty": {
 		"Big5": "Agreeableness",
 		"LowTerm": "Proud",
 		"HighTerm": "Modest",
-		"LowDescription": "You hold yourself in high regard, satisfied with who you are",
+		"LowDescription": "You love yourself just a little too much",
 		"HighDescription": "You are uncomfortable being the center of attention"
 	},
 	"Sympathy": {
@@ -87,8 +87,8 @@
 		"Big5": "Conscientiousness",
 		"LowTerm": "Self-doubting",
 		"HighTerm": "Self-assured",
-		"LowDescription": "You frequently doubt your ability to achieve your goals",
-		"HighDescription": "You feel you have the ability to succeed in the tasks you set out to do"
+		"LowDescription": "You have difficulty believing in yourself, just like everyone around you",
+		"HighDescription": "You are baselessly confident"
 	},
 	"Orderliness": {
 		"Big5": "Conscientiousness",
@@ -171,15 +171,15 @@
 		"Big5": "Openness",
 		"LowTerm": "Down-to-earth",
 		"HighTerm": "Imaginative",
-		"LowDescription": "You prefer facts over fantasy",
-		"HighDescription": "You have a wild imagination"
+		"LowDescription": "You prefer facts",
+		"HighDescription": "You maybe do a lot of drugs"
 	},
 	"Artistic-interests": {
 		"Big5": "Openness",
 		"LowTerm": "Unconcerned with art",
 		"HighTerm": "Appreciative of art",
-		"LowDescription": "You are less concerned with artistic or creative activities than most people who participated in our surveys",
-		"HighDescription": "You enjoy beauty and seek out creative experiences"
+		"LowDescription": "You are uncultured and refuse to waste time creative activities",
+		"HighDescription": "You enjoy beauty and seek out creative experiences, like shrooms"
 	},
 	"Emotionality": {
 		"Big5": "Openness",
