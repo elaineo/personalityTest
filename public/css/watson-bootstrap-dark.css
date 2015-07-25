@@ -5560,3 +5560,119 @@ table.table,
 .inset {
   padding: 15px;
 }
+
+@charset "UTF-8";
+/* line 45, ../../vendor/stylesheets/normalize.scss */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+nav,
+section,
+summary {
+  display: block;
+}
+
+/* line 61, ../../vendor/stylesheets/normalize.scss */
+audio,
+canvas,
+video {
+  display: inline-block;
+}
+
+/* line 74, ../../vendor/stylesheets/normalize.scss */
+audio:not([controls]) {
+  display: none;
+  height: 0;
+}
+
+/* line 84, ../../vendor/stylesheets/normalize.scss */
+[hidden], template {
+  display: none;
+}
+
+/* line 97, ../../vendor/stylesheets/normalize.scss */
+html {
+  background: #fff;
+  color: #000;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+
+/* line 109, ../../vendor/stylesheets/normalize.scss */
+html,
+button,
+input,
+select,
+textarea {
+  font-family: sans-serif;
+}
+
+/* line 119, ../../vendor/stylesheets/normalize.scss */
+body {
+  margin: 0;
+}
+
+/* line 132, ../../vendor/stylesheets/normalize.scss */
+a {
+  background: transparent;
+}
+/* line 139, ../../vendor/stylesheets/normalize.scss */
+a:focus {
+  outline: thin dotted;
+}
+/* line 145, ../../vendor/stylesheets/normalize.scss */
+a:hover, a:active {
+  outline: 0;
+}
+
+/* line 159, ../../vendor/stylesheets/normalize.scss */
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+/* line 164, ../../vendor/stylesheets/normalize.scss */
+h2 {
+  font-size: 1.5em;
+  margin: 0.83em 0;
+}
+
+/* line 169, ../../vendor/stylesheets/normalize.scss */
+h3 {
+  font-size: 1.17em;
+  margin: 1em 0;
+}
+
+/* line 174, ../../vendor/stylesheets/normalize.scss */
+h4 {
+  font-size: 1em;
+  margin: 1.33em 0;
+}
+
+/* line 179, ../../vendor/stylesheets/normalize.scss */
+h5 {
+  font-size: 0.83em;
+  margin: 1.67em 0;
+}
+
+/* line 184, ../../vendor/stylesheets/normalize.scss */
+h6 {
+  font-size: 0.75em;
+  margin: 2.33em 0;
+}
+
+/* line 192, ../../vendor/stylesheets/normalize.scss */
+abbr[title] {
+  border-bottom: 1px dotted;
+}
+
+/* line 198, ../../vendor/stylesheets/normalize.scss */
+b,
+strong {
+  font-weight: bold;
+}
